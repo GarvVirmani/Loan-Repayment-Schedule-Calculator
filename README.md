@@ -31,5 +31,4 @@ This React application calculates and displays a loan repayment schedule based o
  - Moratorium Period (in months): The period during which regular repayments are deferred.
 
 # Link
-
-
+https://loan-repayment-schedule-calculator-alfb.vercel.app/
